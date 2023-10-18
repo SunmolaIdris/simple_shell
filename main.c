@@ -11,6 +11,7 @@ int main(int ac, char **av)
 {
 	comm_t comm[] = { COMM_INIT };
 	int fd = 2, x, y;
+
 	x = 0;
 	y = 1;
 
